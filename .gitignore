@@ -5,8 +5,6 @@ ENV/
 env/
 
 # Environment Variables
-.env
-.env.local
 
 # Python Cache & Compiled Files
 __pycache__/
@@ -26,3 +24,8 @@ news_logger_history.csv
 .Trashes
 ehthumbs.db
 Thumbs.db
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+node_modules

@@ -1,0 +1,8 @@
+crewai>=0.100.0
+crewai-tools>=0.30.0
+requests>=2.31.0
+gspread>=6.0.0
+google-auth>=2.28.0
+slack-sdk>=3.27.0
+python-dotenv>=1.0.0
+pydantic>=2.6.0

@@ -8,7 +8,7 @@
   ],
   "routes": [
     {
-      "src": "/api/cron",
+      "src": "/(.*)",
       "dest": "api/cron.py"
     }
   ],
